@@ -3,9 +3,7 @@
 ## Introduction
 FREE all-in-one snapchat bot. I started this project almost a year ago with idea to sell it. but due to lack of time and knowledge I stopped the project. I think it's a shame to throw away all my heart-worked hours. that's why i made it public so anyone can use it
 
-## Overview of Functions
-
-Project_Snapchat - Version 1.0.0
+## Overview of Functions - Version 1.0.0
 
 Accept
 - Added Accept mode
@@ -21,3 +19,8 @@ QuickAdd
 
 Story add
 - Added Story Snaps
+
+## Installation
+
+follow our guide that explains what you need and need to install
+* [Guide](https://project-snapchat.gitbook.io/v1-0/getting-started/preparing-your-pc)
